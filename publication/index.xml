@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Georgios Exarchakis</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Georgios Exarchakis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D  Electronic Densities</title>
+      <link>/publication/solid-harmonic-scattering/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/solid-harmonic-scattering/</guid>
+      <description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrete Sparse Coding</title>
+      <link>/publication/discrete-sparse-coding/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/discrete-sparse-coding/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What Are the Invariant Occlusive Components of Image Patches? A Probabilistic Generative Approach</title>
+      <link>/publication/esc/</link>
+      <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/esc/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning invariant features by harnessing the aperture problem</title>
+      <link>/publication/aperture/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/aperture/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ternary Sparse Coding</title>
+      <link>/publication/tsc/</link>
+      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tsc/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrete Symmetric Priors for Sparse Coding</title>
+      <link>/publication/discrete_symmetric_priors_sc/</link>
+      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/discrete_symmetric_priors_sc/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
