@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D  Electronic Densities</title>
@@ -16,8 +18,16 @@
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/solid-harmonic-scattering/</guid>
-      <description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solid harmonic wavelet scattering for predictions of molecule properties</title>
+      <link>/publication/solid-harmonic-scattering-properties/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/solid-harmonic-scattering-properties/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -26,8 +36,7 @@
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/discrete-sparse-coding/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,8 +45,7 @@
       <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
       
       <guid>/publication/esc/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -46,8 +54,7 @@
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>/publication/aperture/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -56,8 +63,7 @@
       <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>/publication/tsc/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -66,8 +72,7 @@
       <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
       
       <guid>/publication/discrete_symmetric_priors_sc/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
