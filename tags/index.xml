@@ -22,20 +22,119 @@
     </item>
     
     <item>
-      <title>Quantum-chemistry</title>
+      <title>Black box optimization</title>
+      <link>/tags/black-box-optimization/</link>
+      <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
+      
+      <guid>/tags/black-box-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gated autoencoders</title>
+      <link>/tags/gated-autoencoders/</link>
+      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/gated-autoencoders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical models</title>
+      <link>/tags/graphical-models/</link>
+      <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
+      
+      <guid>/tags/graphical-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariant representations</title>
+      <link>/tags/invariant-representations/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/invariant-representations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilinear regression</title>
+      <link>/tags/multilinear-regression/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multilinear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural image statistics</title>
+      <link>/tags/natural-image-statistics/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/natural-image-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural networks</title>
+      <link>/tags/neural-networks/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum chemistry</title>
       <link>/tags/quantum-chemistry/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/quantum-chemistry/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spike-sorting</title>
-      <link>/tags/spike-sorting/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Sparse coding</title>
+      <link>/tags/sparse-coding/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/spike-sorting/</guid>
+      <guid>/tags/sparse-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised learning</title>
+      <link>/tags/unsupervised-learning/</link>
+      <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
+      
+      <guid>/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelets</title>
+      <link>/tags/wavelets/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wavelets/</guid>
       <description></description>
     </item>
     
