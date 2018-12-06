@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Georgios Exarchakis</title>
-    <link>/project/</link>
+    <link>https://gexarcha.github.io/project/</link>
     <description>Recent content in Projects on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gexarcha.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <link>https://gexarcha.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>https://gexarcha.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/project/deep-learning/</link>
+      <link>https://gexarcha.github.io/project/deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/deep-learning/</guid>
+      <guid>https://gexarcha.github.io/project/deep-learning/</guid>
       <description></description>
     </item>
     

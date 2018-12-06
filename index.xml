@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Georgios Exarchakis on Georgios Exarchakis</title>
-    <link>/</link>
+    <link>https://gexarcha.github.io/</link>
     <description>Recent content in Georgios Exarchakis on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,118 +12,118 @@
     
     <item>
       <title>Truncated Variational Sampling for ‘Black Box’ Optimization of Generative Models</title>
-      <link>/publication/bboptimization/</link>
+      <link>https://gexarcha.github.io/publication/bboptimization/</link>
       <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
       
-      <guid>/publication/bboptimization/</guid>
+      <guid>https://gexarcha.github.io/publication/bboptimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solid harmonic wavelet scattering for predictions of molecule properties</title>
-      <link>/publication/solid-harmonic-scattering-properties/</link>
+      <link>https://gexarcha.github.io/publication/solid-harmonic-scattering-properties/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/solid-harmonic-scattering-properties/</guid>
+      <guid>https://gexarcha.github.io/publication/solid-harmonic-scattering-properties/</guid>
       <description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D  Electronic Densities</title>
-      <link>/publication/solid-harmonic-scattering/</link>
+      <link>https://gexarcha.github.io/publication/solid-harmonic-scattering/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/solid-harmonic-scattering/</guid>
+      <guid>https://gexarcha.github.io/publication/solid-harmonic-scattering/</guid>
       <description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Discrete Sparse Coding</title>
-      <link>/publication/discrete-sparse-coding/</link>
+      <link>https://gexarcha.github.io/publication/discrete-sparse-coding/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/discrete-sparse-coding/</guid>
+      <guid>https://gexarcha.github.io/publication/discrete-sparse-coding/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
+      <link>https://gexarcha.github.io/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>/talk/example-talk/</guid>
+      <guid>https://gexarcha.github.io/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Probabilistic Models for Invariant Representations and Transformations</title>
-      <link>/publication/dissertation/</link>
+      <link>https://gexarcha.github.io/publication/dissertation/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/dissertation/</guid>
+      <guid>https://gexarcha.github.io/publication/dissertation/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <link>https://gexarcha.github.io/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>https://gexarcha.github.io/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Are the Invariant Occlusive Components of Image Patches? A Probabilistic Generative Approach</title>
-      <link>/publication/esc/</link>
+      <link>https://gexarcha.github.io/publication/esc/</link>
       <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/esc/</guid>
+      <guid>https://gexarcha.github.io/publication/esc/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Learning invariant features by harnessing the aperture problem</title>
-      <link>/publication/aperture/</link>
+      <link>https://gexarcha.github.io/publication/aperture/</link>
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/aperture/</guid>
+      <guid>https://gexarcha.github.io/publication/aperture/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Ternary Sparse Coding</title>
-      <link>/publication/tsc/</link>
+      <link>https://gexarcha.github.io/publication/tsc/</link>
       <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
       
-      <guid>/publication/tsc/</guid>
+      <guid>https://gexarcha.github.io/publication/tsc/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title>Discrete Symmetric Priors for Sparse Coding</title>
-      <link>/publication/discrete_symmetric_priors_sc/</link>
+      <link>https://gexarcha.github.io/publication/discrete_symmetric_priors_sc/</link>
       <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>/publication/discrete_symmetric_priors_sc/</guid>
+      <guid>https://gexarcha.github.io/publication/discrete_symmetric_priors_sc/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/project/deep-learning/</link>
+      <link>https://gexarcha.github.io/project/deep-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/project/deep-learning/</guid>
+      <guid>https://gexarcha.github.io/project/deep-learning/</guid>
       <description>&lt;!-- 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 

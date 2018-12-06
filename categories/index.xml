@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Georgios Exarchakis</title>
-    <link>/categories/</link>
+    <link>https://gexarcha.github.io/categories/</link>
     <description>Recent content in Categories on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gexarcha.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

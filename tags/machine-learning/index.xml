@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine learning on Georgios Exarchakis</title>
-    <link>/tags/machine-learning/</link>
+    <link>https://gexarcha.github.io/tags/machine-learning/</link>
     <description>Recent content in Machine learning on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
     <lastBuildDate>Sat, 30 Jun 2018 14:38:58 +0200</lastBuildDate>
     
-	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gexarcha.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Truncated Variational Sampling for ‘Black Box’ Optimization of Generative Models</title>
-      <link>/publication/bboptimization/</link>
+      <link>https://gexarcha.github.io/publication/bboptimization/</link>
       <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
       
-      <guid>/publication/bboptimization/</guid>
+      <guid>https://gexarcha.github.io/publication/bboptimization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What Are the Invariant Occlusive Components of Image Patches? A Probabilistic Generative Approach</title>
-      <link>/publication/esc/</link>
+      <link>https://gexarcha.github.io/publication/esc/</link>
       <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/esc/</guid>
+      <guid>https://gexarcha.github.io/publication/esc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning invariant features by harnessing the aperture problem</title>
-      <link>/publication/aperture/</link>
+      <link>https://gexarcha.github.io/publication/aperture/</link>
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/aperture/</guid>
+      <guid>https://gexarcha.github.io/publication/aperture/</guid>
       <description></description>
     </item>
     

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neural networks on Georgios Exarchakis</title>
-    <link>/tags/neural-networks/</link>
+    <link>https://gexarcha.github.io/tags/neural-networks/</link>
     <description>Recent content in Neural networks on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
     <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gexarcha.github.io/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Probabilistic Models for Invariant Representations and Transformations</title>
-      <link>/publication/dissertation/</link>
+      <link>https://gexarcha.github.io/publication/dissertation/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/dissertation/</guid>
+      <guid>https://gexarcha.github.io/publication/dissertation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning invariant features by harnessing the aperture problem</title>
-      <link>/publication/aperture/</link>
+      <link>https://gexarcha.github.io/publication/aperture/</link>
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>/publication/aperture/</guid>
+      <guid>https://gexarcha.github.io/publication/aperture/</guid>
       <description></description>
     </item>
     
