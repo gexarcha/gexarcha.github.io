@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gexarcha
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gexarcha.github.io
+  * I am gexarcha (https://keybase.io/gexarcha) on keybase.
+  * I have a public key ASBi9uFwd0rqyaoeulnJ9RTleE1PZBWrNcgVDdLmaUiVUQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012062f6e170774aeac9aa1eba59c9f514e5784d4f6415ab35c8150dd2e6694895510a",
+      "host": "keybase.io",
+      "kid": "012062f6e170774aeac9aa1eba59c9f514e5784d4f6415ab35c8150dd2e6694895510a",
+      "uid": "b127213b9eee69a15e7c000781135219",
+      "username": "gexarcha"
+    },
+    "merkle_root": {
+      "ctime": 1544613324,
+      "hash": "c84cf5b4849a1660e153e80923f1cef4082caa2a96a64833ebf744271287c2ec502c85ab7fb9f667d13c070a2e43ff39b340d5786bb0acd9ba12484a70e45e4f",
+      "hash_meta": "b4a27e0c87730228c999ed2332ba56492c76c68128de4a036121293b753d3953",
+      "seqno": 4112328
+    },
+    "service": {
+      "entropy": "Bw4OjtrgyxrdQcey2GSDVIbk",
+      "hostname": "gexarcha.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1544613338,
+  "expire_in": 504576000,
+  "prev": "18079ee7627f88723626690b3c2160159d04344ee5feda61a50cb19fafe99995",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYvbhcHdK6smqHrpZyfUU5XhNT2QVqzXIFQ3S5mlIlVEKp3BheWxvYWTESpcCB8QgGAee52J/iHI2JmkLPCFgFZ0ENE7l/tphpQyxn6/pmZXEIHrrF2P2KnlshLqwQisXiozBjWLvozT1iqXZaE49c58WAgHCo3NpZ8RAVMAUv08t6qeb2okuah1YmqqAQrIuZNRx9ozke1h3ODo4iWqhryMaFSYc/WQrToi9vwBQjFl2csjZ/me6PvmjDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHFMO1q8vKMogdTisWd2lAzFgWExFAeztVxIi/5uArJYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gexarcha
+
+==================================================================
