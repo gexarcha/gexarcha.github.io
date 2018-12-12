@@ -50,16 +50,6 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://gexarcha.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://gexarcha.github.io/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Probabilistic Models for Invariant Representations and Transformations</title>
       <link>https://gexarcha.github.io/publication/dissertation/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
@@ -67,15 +57,6 @@
       <guid>https://gexarcha.github.io/publication/dissertation/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://gexarcha.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/project/example-external-project/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -115,54 +96,6 @@
       
       <guid>https://gexarcha.github.io/publication/discrete_symmetric_priors_sc/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gexarcha.github.io/aliases/exarchakis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/aliases/exarchakis/</guid>
-      <description>&lt;p&gt;{{ range where .Data.Pages &amp;ldquo;Title&amp;rdquo; &amp;ldquo;Home&amp;rdquo; }}
-  {{ template &amp;ldquo;_default/single.html&amp;rdquo; . }}
-{{ end }}&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gexarcha.github.io/aliases/george/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/aliases/george/</guid>
-      <description>&lt;p&gt;{{ range where .Data.Pages &amp;ldquo;Title&amp;rdquo; &amp;ldquo;Home&amp;rdquo; }}
-  {{ template &amp;ldquo;_default/single.html&amp;rdquo; . }}
-{{ end }}&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gexarcha.github.io/aliases/gexarcha/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/aliases/gexarcha/</guid>
-      <description>&lt;p&gt;{{ range where .Data.Pages &amp;ldquo;Title&amp;rdquo; &amp;ldquo;Home&amp;rdquo; }}
-  {{ template &amp;ldquo;_default/single.html&amp;rdquo; . }}
-{{ end }}&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://gexarcha.github.io/aliases/%CE%B3%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/aliases/%CE%B3%CE%B5%CF%8E%CF%81%CE%B3%CE%B9%CE%BF%CF%82/</guid>
-      <description>&lt;p&gt;{{ range where .Data.Pages &amp;ldquo;Title&amp;rdquo; &amp;ldquo;Home&amp;rdquo; }}
-  {{ template &amp;ldquo;_default/single.html&amp;rdquo; . }}
-{{ end }}&lt;/p&gt;
 </description>
     </item>
     
