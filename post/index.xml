@@ -6,11 +6,23 @@
     <description>Recent content in Posts on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 02 Apr 2019 13:37:24 +0200</lastBuildDate>
     
 	<atom:link href="https://gexarcha.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kymatio</title>
+      <link>https://gexarcha.github.io/post/kymatio/</link>
+      <pubDate>Tue, 02 Apr 2019 13:37:24 +0200</pubDate>
+      
+      <guid>https://gexarcha.github.io/post/kymatio/</guid>
+      <description>Kymatio is a Python module for computing wavelet and scattering transforms.
+It is built on top of PyTorch, but also has a fast CUDA backend via cupy and skcuda.
+Use kymatio if you need a library that:
+ integrates wavelet scattering in a deep learning architecture, supports 1-D, 2-D, and 3-D wavelets, and runs seamlessly on CPU and GPU hardware. A brief intro to wavelet scattering is provided in User Guide.</description>
+    </item>
     
   </channel>
 </rss>

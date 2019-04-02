@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multilinear regression on Georgios Exarchakis</title>
+    <title>multilinear regression on Georgios Exarchakis</title>
     <link>https://gexarcha.github.io/tags/multilinear-regression/</link>
-    <description>Recent content in Multilinear regression on Georgios Exarchakis</description>
+    <description>Recent content in multilinear regression on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
+    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gexarcha.github.io/tags/multilinear-regression/index.xml" rel="self" type="application/rss+xml" />
@@ -14,19 +14,19 @@
     
     <item>
       <title>Solid harmonic wavelet scattering for predictions of molecule properties</title>
-      <link>https://gexarcha.github.io/publication/solid-harmonic-scattering-properties/</link>
+      <link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gexarcha.github.io/publication/solid-harmonic-scattering-properties/</guid>
+      <guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D  Electronic Densities</title>
-      <link>https://gexarcha.github.io/publication/solid-harmonic-scattering/</link>
+      <link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gexarcha.github.io/publication/solid-harmonic-scattering/</guid>
+      <guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</guid>
       <description></description>
     </item>
     

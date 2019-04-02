@@ -6,41 +6,22 @@
     <description>Recent content in Tags on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
     
 	<atom:link href="https://gexarcha.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://gexarcha.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>Black box optimization</title>
-      <link>https://gexarcha.github.io/tags/black-box-optimization/</link>
-      <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
-      
-      <guid>https://gexarcha.github.io/tags/black-box-optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep learning</title>
+      <title>deep learning</title>
       <link>https://gexarcha.github.io/tags/deep-learning/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://gexarcha.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gated autoencoders</title>
+      <title>gated autoencoders</title>
       <link>https://gexarcha.github.io/tags/gated-autoencoders/</link>
       <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
       
@@ -49,7 +30,7 @@
     </item>
     
     <item>
-      <title>Graphical models</title>
+      <title>graphical models</title>
       <link>https://gexarcha.github.io/tags/graphical-models/</link>
       <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
       
@@ -58,7 +39,7 @@
     </item>
     
     <item>
-      <title>Invariant representations</title>
+      <title>invariant representations</title>
       <link>https://gexarcha.github.io/tags/invariant-representations/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
@@ -67,7 +48,7 @@
     </item>
     
     <item>
-      <title>Machine learning</title>
+      <title>machine learning</title>
       <link>https://gexarcha.github.io/tags/machine-learning/</link>
       <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
       
@@ -76,7 +57,7 @@
     </item>
     
     <item>
-      <title>Multilinear regression</title>
+      <title>multilinear regression</title>
       <link>https://gexarcha.github.io/tags/multilinear-regression/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
@@ -85,7 +66,7 @@
     </item>
     
     <item>
-      <title>Natural image statistics</title>
+      <title>natural image statistics</title>
       <link>https://gexarcha.github.io/tags/natural-image-statistics/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
@@ -94,16 +75,25 @@
     </item>
     
     <item>
-      <title>Neural networks</title>
+      <title>neural networks</title>
       <link>https://gexarcha.github.io/tags/neural-networks/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://gexarcha.github.io/tags/neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quantum chemistry</title>
+      <title>optimization</title>
+      <link>https://gexarcha.github.io/tags/optimization/</link>
+      <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
+      
+      <guid>https://gexarcha.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantum chemistry</title>
       <link>https://gexarcha.github.io/tags/quantum-chemistry/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
@@ -112,7 +102,7 @@
     </item>
     
     <item>
-      <title>Sparse coding</title>
+      <title>sparse coding</title>
       <link>https://gexarcha.github.io/tags/sparse-coding/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
@@ -121,7 +111,7 @@
     </item>
     
     <item>
-      <title>Unsupervised learning</title>
+      <title>unsupervised learning</title>
       <link>https://gexarcha.github.io/tags/unsupervised-learning/</link>
       <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
       
@@ -130,9 +120,9 @@
     </item>
     
     <item>
-      <title>Wavelets</title>
+      <title>wavelets</title>
       <link>https://gexarcha.github.io/tags/wavelets/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Apr 2019 13:37:24 +0200</pubDate>
       
       <guid>https://gexarcha.github.io/tags/wavelets/</guid>
       <description></description>

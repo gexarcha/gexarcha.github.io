@@ -6,18 +6,36 @@
     <description>Recent content in 0 on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
-    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 02 Apr 2019 13:21:36 +0200</lastBuildDate>
     
 	<atom:link href="https://gexarcha.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Example</title>
+      <link>https://gexarcha.github.io/publication/example/</link>
+      <pubDate>Tue, 02 Apr 2019 13:21:36 +0200</pubDate>
+      
+      <guid>https://gexarcha.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kymatio: Scattering Transforms in Python</title>
+      <link>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Probabilistic Models for Invariant Representations and Transformations</title>
-      <link>https://gexarcha.github.io/publication/dissertation/</link>
+      <link>https://gexarcha.github.io/publication/probabilistic-models-for-invariant-representations-and-transformations/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gexarcha.github.io/publication/dissertation/</guid>
+      <guid>https://gexarcha.github.io/publication/probabilistic-models-for-invariant-representations-and-transformations/</guid>
       <description></description>
     </item>
     

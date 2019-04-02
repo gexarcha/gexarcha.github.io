@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sparse coding on Georgios Exarchakis</title>
+    <title>sparse coding on Georgios Exarchakis</title>
     <link>https://gexarcha.github.io/tags/sparse-coding/</link>
-    <description>Recent content in Sparse coding on Georgios Exarchakis</description>
+    <description>Recent content in sparse coding on Georgios Exarchakis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
+    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gexarcha.github.io/tags/sparse-coding/index.xml" rel="self" type="application/rss+xml" />
@@ -23,28 +23,19 @@
     
     <item>
       <title>Probabilistic Models for Invariant Representations and Transformations</title>
-      <link>https://gexarcha.github.io/publication/dissertation/</link>
+      <link>https://gexarcha.github.io/publication/probabilistic-models-for-invariant-representations-and-transformations/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gexarcha.github.io/publication/dissertation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ternary Sparse Coding</title>
-      <link>https://gexarcha.github.io/publication/tsc/</link>
-      <pubDate>Sat, 20 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/tsc/</guid>
+      <guid>https://gexarcha.github.io/publication/probabilistic-models-for-invariant-representations-and-transformations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discrete Symmetric Priors for Sparse Coding</title>
-      <link>https://gexarcha.github.io/publication/discrete_symmetric_priors_sc/</link>
+      <link>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</link>
       <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://gexarcha.github.io/publication/discrete_symmetric_priors_sc/</guid>
+      <guid>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</guid>
       <description></description>
     </item>
     
