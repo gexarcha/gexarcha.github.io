@@ -81,6 +81,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -2420,7 +2422,7 @@ It is built on top of PyTorch, but also has a fast CUDA …
       
       <li>
         <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">INSTITUT DE LA VISION, 74, rue du Faubourg Saint Antoine, Escalier B2 / 2e étage droite, 75012 Paris</span>
+        <span id="person-address" itemprop="address">INSTITUT DE LA VISION, 13, rue du Moreau, 75012 Paris</span>
       </li>
       
 
@@ -2465,6 +2467,16 @@ It is built on top of PyTorch, but also has a fast CUDA …
 
     </ul>
 
+    
+    <div class="d-none">
+      <input id="map-provider" value="3">
+      <input id="map-lat" value="48.849850">
+      <input id="map-lng" value="2.372531">
+      <input id="map-dir" value="INSTITUT DE LA VISION, 13, rue du Moreau, 75012 Paris">
+      <input id="map-zoom" value="17">
+      <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
     
 
   </div>
@@ -2551,6 +2563,8 @@ It is built on top of PyTorch, but also has a fast CUDA …
     
 
     
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
