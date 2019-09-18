@@ -1,118 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Georgios Exarchakis</title>
-    <link>https://gexarcha.github.io/authors/georgios-exarchakis/</link>
-    <description>Recent content on Georgios Exarchakis</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 19 Aug 2019 13:48:09 +0300</lastBuildDate>
-    
-	<atom:link href="https://gexarcha.github.io/authors/georgios-exarchakis/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>ProSper - A Python Library for Probabilistic Sparse Coding with Non-Standard Priors and Superpositions</title>
-      <link>https://gexarcha.github.io/publication/prosper/</link>
-      <pubDate>Mon, 19 Aug 2019 13:48:09 +0300</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/prosper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kymatio</title>
-      <link>https://gexarcha.github.io/post/kymatio/</link>
-      <pubDate>Tue, 02 Apr 2019 13:37:24 +0200</pubDate>
-      
-      <guid>https://gexarcha.github.io/post/kymatio/</guid>
-      <description>Kymatio is a Python module for computing wavelet and scattering transforms.
-It is built on top of PyTorch, but also has a fast CUDA backend via cupy and skcuda.
-Use kymatio if you need a library that:
- integrates wavelet scattering in a deep learning architecture, supports 1-D, 2-D, and 3-D wavelets, and runs seamlessly on CPU and GPU hardware. A brief intro to wavelet scattering is provided in User Guide.</description>
-    </item>
-    
-    <item>
-      <title>Kymatio: Scattering Transforms in Python</title>
-      <link>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</link>
-      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Truncated Variational Sampling for ‘Black Box’ Optimization of Generative Models</title>
-      <link>https://gexarcha.github.io/publication/truncated-variational-sampling-for-black-box-optimization-of-generative-models/</link>
-      <pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/truncated-variational-sampling-for-black-box-optimization-of-generative-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solid harmonic wavelet scattering for predictions of molecule properties</title>
-      <link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D  Electronic Densities</title>
-      <link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</link>
-      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discrete Sparse Coding</title>
-      <link>https://gexarcha.github.io/publication/discrete-sparse-coding/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/discrete-sparse-coding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Probabilistic Models for Invariant Representations and Transformations</title>
-      <link>https://gexarcha.github.io/publication/probabilistic-models-for-invariant-representations-and-transformations/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/probabilistic-models-for-invariant-representations-and-transformations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What Are the Invariant Occlusive Components of Image Patches? A Probabilistic Generative Approach</title>
-      <link>https://gexarcha.github.io/publication/what-are-the-invariant-occlusive-components-of-image-patches-a-probabilistic-generative-approach/</link>
-      <pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/what-are-the-invariant-occlusive-components-of-image-patches-a-probabilistic-generative-approach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning invariant features by harnessing the aperture problem</title>
-      <link>https://gexarcha.github.io/publication/learning-invariant-features-by-harnessing-the-aperture-problem/</link>
-      <pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/learning-invariant-features-by-harnessing-the-aperture-problem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discrete Symmetric Priors for Sparse Coding</title>
-      <link>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</link>
-      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Georgios Exarchakis</title><link>https://gexarcha.github.io/authors/georgios-exarchakis/</link><atom:link href="https://gexarcha.github.io/authors/georgios-exarchakis/index.xml" rel="self" type="application/rss+xml"/><description>Georgios Exarchakis</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Mon, 19 Aug 2019 13:48:09 +0300</lastBuildDate><image><url>https://gexarcha.github.io/img/George%20Exarchakis.jpg</url><title>Georgios Exarchakis</title><link>https://gexarcha.github.io/authors/georgios-exarchakis/</link></image><item><title>ProSper - A Python Library for Probabilistic Sparse Coding with Non-Standard Priors and Superpositions</title><link>https://gexarcha.github.io/publication/prosper/</link><pubDate>Mon, 19 Aug 2019 13:48:09 +0300</pubDate><guid>https://gexarcha.github.io/publication/prosper/</guid><description/></item><item><title>Kymatio</title><link>https://gexarcha.github.io/post/kymatio/</link><pubDate>Tue, 02 Apr 2019 13:37:24 +0200</pubDate><guid>https://gexarcha.github.io/post/kymatio/</guid><description>&lt;p&gt;&lt;a href=&#34;https://kymat.io&#34; target=&#34;_blank&#34;&gt;Kymatio&lt;/a&gt; is a Python module for computing wavelet and scattering transforms.&lt;/p&gt;
+&lt;p&gt;It is built on top of PyTorch, but also has a fast CUDA backend via cupy and skcuda.&lt;/p&gt;
+&lt;p&gt;Use kymatio if you need a library that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;integrates wavelet scattering in a deep learning architecture,&lt;/li&gt;
+&lt;li&gt;supports 1-D, 2-D, and 3-D wavelets, and runs seamlessly on CPU and GPU hardware.&lt;/li&gt;
+&lt;li&gt;A brief intro to wavelet scattering is provided in User Guide. For a list of publications see Publications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;h3&gt;Quick Start&lt;/h3&gt;
+On Linux or macOS, open a shell and run the instruction of &lt;a href=&#34;https://github.com/kymatio/kymatio&#34; target=&#34;_blank&#34;&gt;kymatio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In the Python intepreter, you may then call:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; kymatio&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;which should run without error if the package has been correctly installed.&lt;/p&gt;
+&lt;p&gt;&lt;h3&gt;Apply 2D scattering to a 32x32 random image&lt;/h3&gt;
+The following code imports &lt;code&gt;torch&lt;/code&gt; and the &lt;code&gt;Scattering2D&lt;/code&gt; class, which implements the 2D scattering transform. It then creates an instance of this class to compute the scattering transform at scale &lt;code&gt;J = 2&lt;/code&gt; of a &lt;code&gt;32x32&lt;/code&gt; image consisting of Gaussian white noise:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; torch
+&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; kymatio &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Scattering2D
+scattering &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; Scattering2D(J&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;, shape&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt;))
+x &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; torch&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;randn(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;32&lt;/span&gt;)
+Sx &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; scattering(x)
+&lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(Sx&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;size())&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This should output:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;torch&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;Size([&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;81&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt;])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This corresponds to 81 scattering coefficients, each corresponding to an 8x8 image.&lt;/p&gt;
+&lt;p&gt;Check out the &lt;a href=&#34;https://www.kymat.io/userguide.html#user-guide&#34; target=&#34;_blank&#34;&gt;User Guide&lt;/a&gt; for more scattering transform examples.&lt;/p&gt;</description></item><item><title>Kymatio: Scattering Transforms in Python</title><link>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</link><pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</guid><description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>Truncated Variational Sampling for ‘Black Box’ Optimization of Generative Models</title><link>https://gexarcha.github.io/publication/truncated-variational-sampling-for-black-box-optimization-of-generative-models/</link><pubDate>Sat, 30 Jun 2018 14:38:58 +0200</pubDate><guid>https://gexarcha.github.io/publication/truncated-variational-sampling-for-black-box-optimization-of-generative-models/</guid><description/></item><item><title>Solid harmonic wavelet scattering for predictions of molecule properties</title><link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</guid><description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D Electronic Densities</title><link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</link><pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</guid><description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>Discrete Sparse Coding</title><link>https://gexarcha.github.io/publication/discrete-sparse-coding/</link><pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/discrete-sparse-coding/</guid><description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>Probabilistic Models for Invariant Representations and Transformations</title><link>https://gexarcha.github.io/publication/probabilistic-models-for-invariant-representations-and-transformations/</link><pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/probabilistic-models-for-invariant-representations-and-transformations/</guid><description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>What Are the Invariant Occlusive Components of Image Patches? A Probabilistic Generative Approach</title><link>https://gexarcha.github.io/publication/what-are-the-invariant-occlusive-components-of-image-patches-a-probabilistic-generative-approach/</link><pubDate>Thu, 05 Dec 2013 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/what-are-the-invariant-occlusive-components-of-image-patches-a-probabilistic-generative-approach/</guid><description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>Learning invariant features by harnessing the aperture problem</title><link>https://gexarcha.github.io/publication/learning-invariant-features-by-harnessing-the-aperture-problem/</link><pubDate>Wed, 05 Jun 2013 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/learning-invariant-features-by-harnessing-the-aperture-problem/</guid><description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>Discrete Symmetric Priors for Sparse Coding</title><link>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</link><pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</guid><description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item></channel></rss>
