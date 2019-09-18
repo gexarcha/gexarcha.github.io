@@ -1,1 +1,38 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>multilinear regression | Georgios Exarchakis</title><link>https://gexarcha.github.io/tags/multilinear-regression/</link><atom:link href="https://gexarcha.github.io/tags/multilinear-regression/index.xml" rel="self" type="application/rss+xml"/><description>multilinear regression</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate><image><url>https://gexarcha.github.io/img/George%20Exarchakis.jpg</url><title>multilinear regression</title><link>https://gexarcha.github.io/tags/multilinear-regression/</link></image><item><title>Solid harmonic wavelet scattering for predictions of molecule properties</title><link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</guid><description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D Electronic Densities</title><link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</link><pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</guid><description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item></channel></rss>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multilinear regression | Georgios Exarchakis</title>
+    <link>https://gexarcha.github.io/tags/multilinear-regression/</link>
+      <atom:link href="https://gexarcha.github.io/tags/multilinear-regression/index.xml" rel="self" type="application/rss+xml" />
+    <description>multilinear regression</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gexarcha.github.io/img/George%20Exarchakis.jpg</url>
+      <title>multilinear regression</title>
+      <link>https://gexarcha.github.io/tags/multilinear-regression/</link>
+    </image>
+    
+    <item>
+      <title>Solid harmonic wavelet scattering for predictions of molecule properties</title>
+      <link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</guid>
+      <description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D  Electronic Densities</title>
+      <link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</guid>
+      <description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+>>>>>>> update website

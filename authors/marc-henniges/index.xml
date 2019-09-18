@@ -1,1 +1,37 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marc Henniges | Georgios Exarchakis</title><link>https://gexarcha.github.io/authors/marc-henniges/</link><atom:link href="https://gexarcha.github.io/authors/marc-henniges/index.xml" rel="self" type="application/rss+xml"/><description>Marc Henniges</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Mon, 19 Aug 2019 13:48:09 +0300</lastBuildDate><image><url>https://gexarcha.github.io/img/George%20Exarchakis.jpg</url><title>Marc Henniges</title><link>https://gexarcha.github.io/authors/marc-henniges/</link></image><item><title>ProSper - A Python Library for Probabilistic Sparse Coding with Non-Standard Priors and Superpositions</title><link>https://gexarcha.github.io/publication/prosper/</link><pubDate>Mon, 19 Aug 2019 13:48:09 +0300</pubDate><guid>https://gexarcha.github.io/publication/prosper/</guid><description/></item><item><title>Discrete Symmetric Priors for Sparse Coding</title><link>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</link><pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</guid><description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item></channel></rss>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Henniges | Georgios Exarchakis</title>
+    <link>https://gexarcha.github.io/authors/marc-henniges/</link>
+      <atom:link href="https://gexarcha.github.io/authors/marc-henniges/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Henniges</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Mon, 19 Aug 2019 13:48:09 +0300</lastBuildDate>
+    <image>
+      <url>https://gexarcha.github.io/img/George%20Exarchakis.jpg</url>
+      <title>Marc Henniges</title>
+      <link>https://gexarcha.github.io/authors/marc-henniges/</link>
+    </image>
+    
+    <item>
+      <title>ProSper - A Python Library for Probabilistic Sparse Coding with Non-Standard Priors and Superpositions</title>
+      <link>https://gexarcha.github.io/publication/prosper/</link>
+      <pubDate>Mon, 19 Aug 2019 13:48:09 +0300</pubDate>
+      <guid>https://gexarcha.github.io/publication/prosper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Symmetric Priors for Sparse Coding</title>
+      <link>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</link>
+      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://gexarcha.github.io/publication/discrete-symmetric-priors-for-sparse-coding/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+>>>>>>> update website

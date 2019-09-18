@@ -1,1 +1,47 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Michael Eickenberg | Georgios Exarchakis</title><link>https://gexarcha.github.io/authors/michael-eickenberg/</link><atom:link href="https://gexarcha.github.io/authors/michael-eickenberg/index.xml" rel="self" type="application/rss+xml"/><description>Michael Eickenberg</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate><image><url>https://gexarcha.github.io/img/George%20Exarchakis.jpg</url><title>Michael Eickenberg</title><link>https://gexarcha.github.io/authors/michael-eickenberg/</link></image><item><title>Kymatio: Scattering Transforms in Python</title><link>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</link><pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</guid><description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>Solid harmonic wavelet scattering for predictions of molecule properties</title><link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</guid><description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item><item><title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D Electronic Densities</title><link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</link><pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</guid><description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item></channel></rss>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Eickenberg | Georgios Exarchakis</title>
+    <link>https://gexarcha.github.io/authors/michael-eickenberg/</link>
+      <atom:link href="https://gexarcha.github.io/authors/michael-eickenberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Eickenberg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gexarcha.github.io/img/George%20Exarchakis.jpg</url>
+      <title>Michael Eickenberg</title>
+      <link>https://gexarcha.github.io/authors/michael-eickenberg/</link>
+    </image>
+    
+    <item>
+      <title>Kymatio: Scattering Transforms in Python</title>
+      <link>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solid harmonic wavelet scattering for predictions of molecule properties</title>
+      <link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-for-predictions-of-molecule-properties/</guid>
+      <description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solid Harmonic Wavelet Scattering: Predicting Quantum Molecular Energy from Invariant Descriptors of 3D  Electronic Densities</title>
+      <link>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://gexarcha.github.io/publication/solid-harmonic-wavelet-scattering-predicting-quantum-molecular-energy-from-invariant-descriptors-of-3d-electronic-densities/</guid>
+      <description>&lt;!-- # More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+>>>>>>> update website
