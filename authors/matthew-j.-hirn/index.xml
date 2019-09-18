@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matthew J. Hirn | Georgios Exarchakis</title><link>https://gexarcha.github.io/authors/matthew-j.-hirn/</link><atom:link href="https://gexarcha.github.io/authors/matthew-j.-hirn/index.xml" rel="self" type="application/rss+xml"/><description>Matthew J. Hirn</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate><image><url>https://gexarcha.github.io/img/George%20Exarchakis.jpg</url><title>Matthew J. Hirn</title><link>https://gexarcha.github.io/authors/matthew-j.-hirn/</link></image><item><title>Kymatio: Scattering Transforms in Python</title><link>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</link><pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate><guid>https://gexarcha.github.io/publication/kymatio-scattering-transforms-in-python/</guid><description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;</description></item></channel></rss>
-=======
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -26,4 +23,3 @@
     
   </channel>
 </rss>
->>>>>>> update website

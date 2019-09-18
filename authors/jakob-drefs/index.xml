@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jakob Drefs | Georgios Exarchakis</title><link>https://gexarcha.github.io/authors/jakob-drefs/</link><atom:link href="https://gexarcha.github.io/authors/jakob-drefs/index.xml" rel="self" type="application/rss+xml"/><description>Jakob Drefs</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Mon, 19 Aug 2019 13:48:09 +0300</lastBuildDate><image><url>https://gexarcha.github.io/img/George%20Exarchakis.jpg</url><title>Jakob Drefs</title><link>https://gexarcha.github.io/authors/jakob-drefs/</link></image><item><title>ProSper - A Python Library for Probabilistic Sparse Coding with Non-Standard Priors and Superpositions</title><link>https://gexarcha.github.io/publication/prosper/</link><pubDate>Mon, 19 Aug 2019 13:48:09 +0300</pubDate><guid>https://gexarcha.github.io/publication/prosper/</guid><description/></item></channel></rss>
-=======
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -25,4 +22,3 @@
     
   </channel>
 </rss>
->>>>>>> update website
