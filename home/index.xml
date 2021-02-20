@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Georgios Exarchakis</title>
+    <link>https://gexarcha.github.io/home/</link>
+    <description>Recent content in Homes on Georgios Exarchakis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Georgios Exarchakis</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://gexarcha.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Georgios Exarchakis</title>
+      <link>https://gexarcha.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/hero/</guid>
+      <description>Postdoctoral Researcher at Département d&amp;rsquo;informatique of École Normale Supérieure. . Latest release -- */ --  --
+-- --</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gexarcha.github.io/home/about/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/about/</guid>
+      <description>Biography I completed my undergraduate studies in the Mathematics department of Aristotle University of Thessaloniki. After that I joined the M.Sc. program in Computational Science at the Department for Theoretical Physics of Frankfurt University with a specialization on Machine Learning and Computational Neuroscience. My doctoral research was collaboratively supported by Prof. Dr. Roland Memisevic at the University of Frankfurt (2012-2013), Prof. Dr. Bruno Olshausen at the Redwood Center for Theoretical Neuroscience at UC Berkeley (2013-2014), and Prof.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://gexarcha.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://gexarcha.github.io/home/publications/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://gexarcha.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://gexarcha.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://gexarcha.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://gexarcha.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/teaching/</guid>
+      <description>For the teaching resources visit the website of the Machine Learning team in Oldenburg</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://gexarcha.github.io/home/tags/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://gexarcha.github.io/home/contact/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gexarcha.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
