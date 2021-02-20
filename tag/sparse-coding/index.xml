@@ -1,1 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sparse coding | Georgios Exarchakis</title><link>https://exarchakis.net/tag/sparse-coding/</link><atom:link href="https://exarchakis.net/tag/sparse-coding/index.xml" rel="self" type="application/rss+xml"/><description>sparse coding</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Mon, 19 Aug 2019 13:48:09 +0300</lastBuildDate><image><url>https://exarchakis.net/media/George%20Exarchakis.jpg</url><title>sparse coding</title><link>https://exarchakis.net/tag/sparse-coding/</link></image><item><title>ProSper - A Python Library for Probabilistic Sparse Coding with Non-Standard Priors and Superpositions</title><link>https://exarchakis.net/publication/prosper/</link><pubDate>Mon, 19 Aug 2019 13:48:09 +0300</pubDate><guid>https://exarchakis.net/publication/prosper/</guid><description/></item><item><title>Discrete Sparse Coding</title><link>https://exarchakis.net/publication/discrete-sparse-coding/</link><pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate><guid>https://exarchakis.net/publication/discrete-sparse-coding/</guid><description>&lt;!-- raw HTML omitted --></description></item><item><title>Probabilistic Models for Invariant Representations and Transformations</title><link>https://exarchakis.net/publication/probabilistic-models-for-invariant-representations-and-transformations/</link><pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate><guid>https://exarchakis.net/publication/probabilistic-models-for-invariant-representations-and-transformations/</guid><description>&lt;!-- raw HTML omitted --></description></item><item><title>Ternary Sparse Coding</title><link>https://exarchakis.net/publication/ternary-sparse-coding/</link><pubDate>Mon, 18 Jun 2012 18:29:37 +0200</pubDate><guid>https://exarchakis.net/publication/ternary-sparse-coding/</guid><description/></item><item><title>Discrete Symmetric Priors for Sparse Coding</title><link>https://exarchakis.net/publication/discrete-symmetric-priors-for-sparse-coding/</link><pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate><guid>https://exarchakis.net/publication/discrete-symmetric-priors-for-sparse-coding/</guid><description>&lt;!-- raw HTML omitted --></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sparse coding | Georgios Exarchakis</title>
+    <link>https://exarchakis.net/tag/sparse-coding/</link>
+      <atom:link href="https://exarchakis.net/tag/sparse-coding/index.xml" rel="self" type="application/rss+xml" />
+    <description>sparse coding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018</copyright><lastBuildDate>Mon, 19 Aug 2019 13:48:09 +0300</lastBuildDate>
+    <image>
+      <url>https://exarchakis.net/media/George%20Exarchakis.jpg</url>
+      <title>sparse coding</title>
+      <link>https://exarchakis.net/tag/sparse-coding/</link>
+    </image>
+    
+    <item>
+      <title>ProSper - A Python Library for Probabilistic Sparse Coding with Non-Standard Priors and Superpositions</title>
+      <link>https://exarchakis.net/publication/prosper/</link>
+      <pubDate>Mon, 19 Aug 2019 13:48:09 +0300</pubDate>
+      <guid>https://exarchakis.net/publication/prosper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Sparse Coding</title>
+      <link>https://exarchakis.net/publication/discrete-sparse-coding/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://exarchakis.net/publication/discrete-sparse-coding/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Models for Invariant Representations and Transformations</title>
+      <link>https://exarchakis.net/publication/probabilistic-models-for-invariant-representations-and-transformations/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://exarchakis.net/publication/probabilistic-models-for-invariant-representations-and-transformations/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ternary Sparse Coding</title>
+      <link>https://exarchakis.net/publication/ternary-sparse-coding/</link>
+      <pubDate>Mon, 18 Jun 2012 18:29:37 +0200</pubDate>
+      <guid>https://exarchakis.net/publication/ternary-sparse-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrete Symmetric Priors for Sparse Coding</title>
+      <link>https://exarchakis.net/publication/discrete-symmetric-priors-for-sparse-coding/</link>
+      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://exarchakis.net/publication/discrete-symmetric-priors-for-sparse-coding/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
